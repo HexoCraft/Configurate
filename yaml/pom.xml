@@ -26,7 +26,7 @@
     <parent>
         <groupId>com.github.hexocraft</groupId>
         <artifactId>Configuration</artifactId>
-        <version>${revision}</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <!-- Artifact properties -->
@@ -44,7 +44,7 @@
         <dependency>
             <groupId>com.github.hexocraft</groupId>
             <artifactId>Configuration-core</artifactId>
-            <version>${revision}</version>
+            <version>1.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.spongepowered</groupId>
