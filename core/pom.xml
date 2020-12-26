@@ -25,13 +25,13 @@
     <!-- Parent -->
     <parent>
         <groupId>com.github.hexocraft</groupId>
-        <artifactId>Configuration</artifactId>
+        <artifactId>configuration</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <!-- Artifact properties -->
     <groupId>com.github.hexocraft</groupId>
-    <artifactId>Configuration-core</artifactId>
+    <artifactId>configuration-core</artifactId>
     <packaging>jar</packaging>
 
     <!-- Project dependencies -->
