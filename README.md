@@ -7,4 +7,4 @@ Configuration
 Helper class around [configurate](https://github.com/SpongePowered/Configurate) library
 
 
-[Maven Central]: https://search.maven.org/search?q=g:org.spongepowered%20AND%20a:configurate*
+[Maven Central]: https://search.maven.org/search?q=g:com.github.hexocraft%20AND%20a:configuration*
