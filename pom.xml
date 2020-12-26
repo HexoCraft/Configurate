@@ -26,7 +26,7 @@
     <parent>
         <groupId>com.github.hexocraft</groupId>
         <artifactId>hexocraft-parent</artifactId>
-        <version>3</version>
+        <version>4</version>
     </parent>
 
     <!-- Artifact properties -->
@@ -55,7 +55,7 @@
         <url>https://github.com/hexocraft</url>
     </organization>
 
-    <!-- Want to contibute? Anybody is welcome -->
+    <!-- Want to contribute? Anybody is welcome -->
     <developers>
         <developer>
             <id>hexosse</id>
