@@ -31,7 +31,7 @@
 
     <!-- Artifact properties -->
     <groupId>com.github.hexocraft</groupId>
-    <artifactId>configuration</artifactId>
+    <artifactId>configurate</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -45,9 +45,9 @@
     </modules>
 
     <!-- Description -->
-    <name>Configuration</name>
+    <name>Configurate</name>
     <description>A configuration library with comments.</description>
-    <url>https://github.com/hexocraft/configuration</url>
+    <url>https://github.com/hexocraft/configurate</url>
 
     <!-- Organization -->
     <organization>
@@ -75,15 +75,15 @@
 
     <!-- Source control manager -->
     <scm>
-        <connection>scm:git:git://github.com/hexocraft/configuration.git</connection>
-        <developerConnection>scm:git:ssh://github.com:hexocraft/configuration.git</developerConnection>
-        <url>http://github.com/hexocraft/configuration</url>
+        <connection>scm:git:git://github.com/hexocraft/configurate.git</connection>
+        <developerConnection>scm:git:ssh://github.com:hexocraft/configurate.git</developerConnection>
+        <url>http://github.com/hexocraft/configurate</url>
     </scm>
 
     <!-- Issue management -->
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/hexocraft/configuration/issues</url>
+        <url>https://github.com/hexocraft/configurate/issues</url>
     </issueManagement>
 
     <!-- Project dependencies -->
